@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325245665099",
+    "firebase_url": "https://sistemmasjidperumda.firebaseio.com",
+    "project_id": "sistemmasjidperumda",
+    "storage_bucket": "sistemmasjidperumda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325245665099:android:f6ca83fbbaf5bad83e32ce",
+        "android_client_info": {
+          "package_name": "com.example.sistemmasjidperumda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325245665099-in169ajugiadaklv03801qvjbptb5tkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sistemmasjidperumda",
+            "certificate_hash": "11d2785a4e4d2ab0202a6100775ed56288a86a67"
+          }
+        },
+        {
+          "client_id": "325245665099-gt1u7pnsnm64hrg6jlg0mtu6men9gign.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Lc2wOigOfEjVmCwFgX2SizQvez0OlBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325245665099-gt1u7pnsnm64hrg6jlg0mtu6men9gign.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

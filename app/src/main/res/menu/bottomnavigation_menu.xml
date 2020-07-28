@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/data_menu"
+        android:title="@string/data"
+        android:icon="@drawable/ic_library_data"/>
+
+    <item
+        android:id="@+id/jadwal_menu"
+        android:title="@string/jadwal"
+        android:icon="@drawable/ic_date_range_jadwal"/>
+
+    <item
+        android:id="@+id/profil_menu"
+        android:title="@string/profil"
+        android:icon="@drawable/ic_person_white"/>
+
+</menu>
